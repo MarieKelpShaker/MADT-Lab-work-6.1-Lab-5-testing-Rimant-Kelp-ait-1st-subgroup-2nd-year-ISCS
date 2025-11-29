@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.lab6_lab5_rimantek.MainActivityUiTest" tests="3" failures="0" errors="0" skipped="0" time="13.692" timestamp="2025-11-29T13:40:39" hostname="localhost">
+  <properties>
+    <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="typingFilter_filtersVisibleListItems" classname="com.example.lab6_lab5_rimantek.MainActivityUiTest" time="3.965" />
+  <testcase name="title_isShownOnLaunch" classname="com.example.lab6_lab5_rimantek.MainActivityUiTest" time="4.829" />
+  <testcase name="filterByNameAlsoWorks" classname="com.example.lab6_lab5_rimantek.MainActivityUiTest" time="3.429" />
+</testsuite>
